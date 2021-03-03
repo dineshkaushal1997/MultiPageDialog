@@ -1,3 +1,4 @@
+import 'package:firebase_dialog_demo/constant/dialog.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:firebase_dialog_demo/screen/screen4.dart';
@@ -17,8 +18,13 @@ class Screen3 extends StatelessWidget {
             ),
           ],
         ),
-        body: Center(
-          child: Text('Screen3 Body'),
+        body: Stack(
+          children: [
+            Center(
+              child: Text('Screen3 Body'),
+            ),
+            Constant.dialog(),
+          ],
         ));
   }
 }
