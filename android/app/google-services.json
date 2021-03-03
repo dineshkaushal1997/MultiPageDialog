@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780137971756",
+    "project_id": "dialog-demo-97bf9",
+    "storage_bucket": "dialog-demo-97bf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780137971756:android:2a6a61056f3ba9372c5189",
+        "android_client_info": {
+          "package_name": "com.example.firebasedialogdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780137971756-61iij2j3h8rfvqe56f3sbrovg78cuidn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5v5CiJ-ywNQuhyDIq08qMU3em9Y2V4r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780137971756-61iij2j3h8rfvqe56f3sbrovg78cuidn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
